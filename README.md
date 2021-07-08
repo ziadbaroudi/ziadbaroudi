@@ -28,7 +28,7 @@
 - Getting better at Next.js
 - Expoloring Machine Learning using Python
 
-### Reach me 📫 
+### 📫 Reach me @ 
 ✉️ Email: ziad_baroudi@hotmail.com  
 
 <img src="https://cdn0.iconfinder.com/data/icons/flat-social-media-icons-set-round-style-1/550/linkedin-512.png" alt="LinkedIn" width="20" height="20"> LinkedIn: [ZiadBaroudi](https://linkedin.com/in/ziadbaroudi) 
