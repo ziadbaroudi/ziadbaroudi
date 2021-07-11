@@ -3,9 +3,6 @@
 <img src="https://cdn0.iconfinder.com/data/icons/flat-social-media-icons-set-round-style-1/550/linkedin-512.png" alt="LinkedIn" width="20" height="20"> [Ziadbaroudi](https://linkedin.com/in/ziadbaroudi)
 
 
-
-<p>I love coding.</p>
- 
  ### About me 
   - Front-end Web developper 
   - Python is my native language 🐍
